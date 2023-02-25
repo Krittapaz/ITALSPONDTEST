@@ -4,7 +4,7 @@
 <title>Page Title</title>
 </head>
 <body>
-<h1>This is a flower or human </h1>
+<h1>This is a heading Flower or Human</h1>
 <p>This is a paragraph.</p>
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
